@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Manan%20Gupta&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=I%20build%20apps%2C%20games%20and%20websites%20that%20people%20actually%20use&descSize=17&descAlignY=72" alt="Manan Gupta banner" />
+# Manan Gupta
+
+_I build apps, games and websites that people actually use._
 
 **Student developer from India** | Flutter | Mobile apps | AI-assisted building
 
@@ -54,9 +56,3 @@ I learn by shipping. If something breaks, I fix it, write it down and ship again
 ## 🤝 Let's talk
 
 If you are building something small and useful, or you want an app or a clean website for a local business, I would like to hear about it. Follow me here and watch this space. A lot more is coming.
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="" />
-
-</div>
